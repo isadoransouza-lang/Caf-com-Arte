@@ -1,4 +1,4 @@
-let imagem = ["/c.expre.jpg", "/c.am.jpg", "/capp.jpg", "/latt.jpg", "/moch.jpg", "/atto.jpg", "/OIP.webp", "/affog.webp", "/queijo.jpg", "/frango.png"];
+let imagem = ["c.expre.jpg", "c.am.jpg", "capp.jpg", "latt.jpg", "moch.jpg", "atto.jpg", "OIP.webp", "affog.webp", "queijo.jpg", "frango.png"];
 let texto = ["Café Expresso", "Café Americano", "Cappuccino", "Latte (Café com leite)","Mocha", "Macchiato", "Café Gelado (Iced Coffee)",
     "Affogato", "Café com Pão de Queijo(Combo Especial do Dia)", "Macchiato com Torta de Frango(Combo Especial do Dia)"
  ];

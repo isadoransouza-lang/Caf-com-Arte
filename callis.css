@@ -31,7 +31,7 @@ header{
 }
 
 body{
-     background-image: url("/ddd.jpg");
+     background-image: url("ddd.jpg");
     margin: 0;
 }
 i {

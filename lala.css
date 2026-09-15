@@ -39,7 +39,7 @@ header {
 
 }
 body{
-     background-image: url("/aviso.png");
+     background-image: url("aviso.png");
     margin: 0;
     display: flex;
     flex-direction: column;
