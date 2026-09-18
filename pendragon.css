@@ -101,7 +101,7 @@ i {
     color: #F1EFEA;
 }
 .susu:hover{
- background-color: rgb(9, 127, 230);
+ background-color: #4a5d44c7;
  transform: scale(1.05);
 }
 
@@ -205,7 +205,7 @@ footer {
 
 .redes a:hover {
 
-    background-color: #588af7;
+    background-color: #4f33ee;
 
     transform: translateY(-4px);
 }
